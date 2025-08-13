@@ -1,0 +1,18 @@
+Date,Source,Amount,Unit,Location,Notes
+1/15/2024,Natural Gas,12000,kWh,HQ Building,
+01-15-2024,natural gas,8,500,kwh,Warehouse,estimated
+2024-01-20,Electricity,50000,kWh,HQ Building,
+1/20/24,Electricity,32500,kwh,Warehouse,
+,Electricity,18000,kWh,Retail Store A,Q1 total
+2/1/2024,Business Travel - Air,10000,miles,Various,domestic flights
+2/1/2024,air travel,25000,km,International,
+2/5/2024,Company Vehicles,5000,miles,Fleet,gasoline
+02-10-2024,Company Vehicles,3200,liters,Fleet,diesel fuel purchased
+2/15/2024,Waste - Landfill,12.5,tons,HQ Building,
+2/15/2024,waste landfill,8500,kg,Warehouse,
+2/20/2024,Waste - Recycled,6.2,tons,HQ Building,
+3/1/2024,Supplier: Office Supplies,45000,USD,Procurement,Q1 spend
+3/1/2024,Supplier: IT Equipment,125000,$,IT Dept,
+,Employee Commuting,,miles,Survey,data pending
+3/15/2024,Natural Gas,15000,kWh,HQ Building,winter peak
+3/20/2024,Refrigerants,2.5,kg,HVAC - HQ,R-410A leak detected
